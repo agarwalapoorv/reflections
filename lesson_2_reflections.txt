@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	init tells a folder that we would be storing the git for the same 
