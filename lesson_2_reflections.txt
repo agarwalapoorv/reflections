@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	init tells a folder that we would be storing the git for the same 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area prepares the code for commit. Working directory isn't a part of git.
